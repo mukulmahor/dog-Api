@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# https://dog.ceo/api/breeds/image/random
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://dog.ceo/api/breeds/image/random).
 
 ## Available Scripts
 
