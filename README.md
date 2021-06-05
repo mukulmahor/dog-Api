@@ -1,6 +1,6 @@
-# https://dog.ceo/api/breeds/image/random
+# https://dog-api-b6f36.web.app
 
-This project was bootstrapped with [Create React App](https://dog.ceo/api/breeds/image/random).
+This project was bootstrapped with [Create React App](https://dog-api-b6f36.web.app).
 
 ## Available Scripts
 
